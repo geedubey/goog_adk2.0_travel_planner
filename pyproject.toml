@@ -1,0 +1,13 @@
+[project]
+name = "caps-travel-planner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk>=2.11.0",
+    "litellm>=1.103.2",
+    "pydantic>=2.13.5",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
